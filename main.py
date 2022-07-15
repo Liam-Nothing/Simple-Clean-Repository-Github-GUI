@@ -1,5 +1,5 @@
 import os
-import shutil
+# import shutil
 
 link = input("Link : ")
 directory = link.split("/")[-1]
